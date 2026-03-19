@@ -10,15 +10,15 @@ Muilt-usage analysis feature (eg. Time-domain metrics, Frequency, Amplitude, Dam
 
 ## Runtime Screenshots
 <p align="center">
-  <img src="Assets/Screenshot_Sensor-list.jpg" width="33%">
-  <img src="Assets/Screenshot_Sensor.jpg" width="33%">
-  <img src="Assets/Screenshot_Datasets.jpg" width="33%">
+  <img src="Assets/Screenshot_Sensor-list.jpg" width="30%">
+  <img src="Assets/Screenshot_Sensor.jpg" width="30%">
+  <img src="Assets/Screenshot_Datasets.jpg" width="30%">
 </p>
 
 <p align="center">
-  <img src="Assets/Screenshot_Methods.jpg" width="33%">
-  <img src="Assets/Screenshot_Intercept.jpg" width="33%">
-  <img src="Assets/Screenshot_Time-domain.jpg" width="33%">
+  <img src="Assets/Screenshot_Methods.jpg" width="30%">
+  <img src="Assets/Screenshot_Intercept.jpg" width="30%">
+  <img src="Assets/Screenshot_Time-domain.jpg" width="30%">
 </p>
 
 ## Tech Stack
