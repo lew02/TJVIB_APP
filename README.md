@@ -10,16 +10,12 @@ Muilt-usage analysis feature (eg. Time-domain metrics, Frequency, Amplitude, Dam
 
 ## Runtime Screenshots
 <img src="Assets/Screenshot_Sensor-list.jpg" width="33%">
-
 <img src="Assets/Screenshot_Sensor.jpg" width="33%">
-
 <img src="Assets/Screenshot_Datasets.jpg" width="33%">
 
-![Methods Page](Assets/Screenshot_Methods.jpg)
-
-![Intercept Page](Assets/Screenshot_Intercept.jpg)
-
-![Time-Domain Page](Assets/Screenshot_Time-domain.jpg)
+<img src="Assets/Screenshot_Methods.jpg" width="33%">
+<img src="Assets/Screenshot_Intercept.jpg" width="33%">
+<img src="Assets/Screenshot_Time-domain.jpg" width="33%">
 
 ## Tech Stack
 Java, MySQL, Redis, Spring, JNI, C++
