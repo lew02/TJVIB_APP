@@ -9,11 +9,11 @@ Local or Cloud data storage (Cloud version using MySQL database with Redis enabl
 Muilt-usage analysis feature (eg. Time-domain metrics, Frequency, Amplitude, Damping ratio)
 
 ## Runtime Screenshots
-![Sensor List Page](Assets/Screenshot_Sensor-list.jpg)
+<img src="Assets/Screenshot_Sensor-list.jpg" width="33%">
 
-![Sensor Page](Assets/Screenshot_Sensor.jpg)
+<img src="Assets/Screenshot_Sensor.jpg" width="33%">
 
-![Datasets Page](Assets/Screenshot_Datasets.jpg)
+<img src="Assets/Screenshot_Datasets.jpg" width="33%">
 
 ![Methods Page](Assets/Screenshot_Methods.jpg)
 
